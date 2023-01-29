@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: e7f74fec1dd55774b962822b07d142f0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Run_final_sprite_0
+    21300002: Run_final_sprite_1
+    21300004: Run_final_sprite_2
+    21300006: Run_final_sprite_3
+    21300008: Run_final_sprite_4
+    21300010: Run_final_sprite_5
+    21300012: Run_final_sprite_6
+    21300014: Run_final_sprite_7
+    21300016: Run_final_sprite_8
+    21300018: Run_final_sprite_9
+    21300020: Run_final_sprite_10
+    21300022: Run_final_sprite_11
+    21300024: Run_final_sprite_12
+    21300026: Run_final_sprite_13
+    21300028: Run_final_sprite_14
+    21300030: Run_final_sprite_15
+    21300032: Run_final_sprite_16
+    21300034: Run_final_sprite_17
+    21300036: Run_final_sprite_18
+    21300038: Run_final_sprite_19
+    21300040: Run_final_sprite_20
+    21300042: Run_final_sprite_21
+    21300044: Run_final_sprite_22
+    21300046: Run_final_sprite_23
+    21300048: Run_final_sprite_24
+    21300050: Run_final_sprite_25
+    21300052: Run_final_sprite_26
+    21300054: Run_final_sprite_27
+    21300056: Run_final_sprite_28
+    21300058: Run_final_sprite_29
+    21300060: Run_final_sprite_30
+    21300062: Run_final_sprite_31
+    21300064: Run_final_sprite_32
+    21300066: Run_final_sprite_33
+    21300068: Run_final_sprite_34
+    21300070: Run_final_sprite_35
+    21300072: Run_final_sprite_36
+    21300074: Run_final_sprite_37
+    21300076: Run_final_sprite_38
+    21300078: Run_final_sprite_39
+    21300080: Run_final_sprite_40
+    21300082: Run_final_sprite_41
+    21300084: Run_final_sprite_42
+    21300086: Run_final_sprite_43
+    21300088: Run_final_sprite_44
+    21300090: Run_final_sprite_45
+    21300092: Run_final_sprite_46
+    21300094: Run_final_sprite_47
+    21300096: Run_final_sprite_48
+    21300098: Run_final_sprite_49
+    21300100: Run_final_sprite_50
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Run_final_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 6704
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 6736
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 6528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 6528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 6512
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 6672
+        y: 6512
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 6376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 6352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 6104
+        y: 6352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 6240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 6200
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 6224
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 6208
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6096
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 5960
+        y: 6096
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 5656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 5656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 5656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 5656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 5656
+        y: 5656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 6208
+        y: 5656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 5648
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 5648
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 5648
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 3304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 3072
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 3072
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 6792
+        y: 3072
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3048
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 3048
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 6752
+        y: 3048
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 3032
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 2880
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 2864
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 6096
+        y: 2848
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 6112
+        y: 2840
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 6136
+        y: 2824
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2696
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 2696
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2488
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 2488
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 2816
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5375
+        width: 2527
+        height: 2817
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 5311
+        width: 2284
+        height: 2866
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 5108
+        y: 5375
+        width: 2138
+        height: 2786
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1748
+        width: 2283
+        height: 2947
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1764
+        width: 2235
+        height: 2964
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Run_final_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 1748
+        width: 2575
+        height: 2931
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

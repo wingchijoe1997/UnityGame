@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: cf627edce16d24041a4a03e80d8195b4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: $construction_1
+    21300002: $construction_2
+    21300004: $construction_3
+    21300006: $construction_4
+    21300008: $construction_5
+    21300010: $construction_6
+    21300012: $construction_7
+    21300014: $construction_8
+    21300016: $construction_9
+    21300018: $construction_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: $construction_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 448
+        width: 228
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: $construction_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 211
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: $construction_3
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 446
+        width: 188
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: $construction_4
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 435
+        width: 211
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: $construction_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 216
+        width: 200
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: $construction_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 219
+        width: 200
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: $construction_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 207
+        width: 188
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: $construction_8
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 210
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: $construction_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 207
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: $construction_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

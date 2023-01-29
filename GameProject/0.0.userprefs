@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\win.cs">
+    <Files>
+      <File FileName="Assets\script\HUD.cs" Line="8" Column="1" />
+      <File FileName="Assets\script\StageManger.cs" Line="9" Column="2" />
+      <File FileName="Assets\script\boss1.cs" Line="14" Column="66" />
+      <File FileName="Assets\script\coin.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\move2.cs" Line="6" Column="27" />
+      <File FileName="Assets\script\boss2.cs" Line="39" Column="21" />
+      <File FileName="Assets\script\win.cs" Line="29" Column="64" />
+      <File FileName="Assets\script\start.cs" Line="25" Column="3" />
+      <File FileName="Assets\script\AI2.cs" Line="43" Column="56" />
+      <File FileName="Assets\script\NextLevel.cs" Line="2" Column="26" />
+      <File FileName="Assets\script\Playerattack.cs" Line="23" Column="17" />
+      <File FileName="Assets\script\level1enemy.cs" Line="27" Column="13" />
+      <File FileName="Assets\script\NextLevel2.cs" Line="28" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

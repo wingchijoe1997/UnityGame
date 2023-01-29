@@ -1,0 +1,30 @@
+Initialize engine version: 4.7.0f1 (9c73fd3cda99)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2488)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+desktop: 1920x1080 240Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\joe lam\Desktop\GameProject\GameProject\GameProjectFinal_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.683100 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 528.
+Total: 0.400100 ms (FindLiveObjects: 0.011300 ms CreateObjectMapping: 0.006600 ms MarkObjects: 0.096300 ms  DeleteObjects: 0.004700 ms)
+
